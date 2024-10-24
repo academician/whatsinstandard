@@ -174,7 +174,7 @@
       "block": null,
       "code": "MID",
       "enter_date": "2021-09-24T00:00:00.000",
-      "exit_date": null,
+      "exit_date": "2024-08-02T00:00:00.000",
       "rough_exit_date": "Q4 2024"
     },
     {
@@ -182,7 +182,7 @@
       "block": null,
       "code": "VOW",
       "enter_date": "2021-11-19T00:00:00.000",
-      "exit_date": null,
+      "exit_date": "2024-08-02T00:00:00.000",
       "rough_exit_date": "Q4 2024"
     },
     {
@@ -190,7 +190,7 @@
       "block": null,
       "code": "NEO",
       "enter_date": "2022-02-18T00:00:00.000",
-      "exit_date": null,
+      "exit_date": "2024-08-02T00:00:00.000",
       "rough_exit_date": "Q4 2024"
     },
     {
@@ -198,7 +198,7 @@
       "block": null,
       "code": "SNC",
       "enter_date": "2022-04-29T00:00:00.000",
-      "exit_date": null,
+      "exit_date": "2024-08-02T00:00:00.000",
       "rough_exit_date": "Q4 2024"
     },
     {
@@ -248,6 +248,54 @@
       "enter_date": "2023-09-08T00:00:00.000",
       "exit_date": null,
       "rough_exit_date": "Q4 2026"
+    },
+    {
+      "name": "The Lost Caverns of Ixalan",
+      "block": null,
+      "code": "LCI",
+      "enter_date": "2023-11-17T00:00:00.000",
+      "exit_date": null,
+      "rough_exit_date": "Q4 2026"
+    },
+    {
+      "name": "Murders at Karlov Manor",
+      "block": null,
+      "code": "MKM",
+      "enter_date": "2024-02-09T00:00:00.000",
+      "exit_date": null,
+      "rough_exit_date": "Q4 2026"
+    },
+    {
+      "name": "Outlaws of Thunder Junction",
+      "block": null,
+      "code": "OTJ",
+      "enter_date": "2024-04-19T00:00:00.000",
+      "exit_date": null,
+      "rough_exit_date": "Q4 2026"
+    },
+    {
+      "name": "Bloomburrow",
+      "block": null,
+      "code": "BLB",
+      "enter_date": "2024-08-02T00:00:00.000",
+      "exit_date": null,
+      "rough_exit_date": "Q4 2027"
+    },
+    {
+      "name": "Duskmourn: House of Horror",
+      "block": null,
+      "code": "DSK",
+      "enter_date": "2024-09-27T00:00:00.000",
+      "exit_date": null,
+      "rough_exit_date": "Q4 2027"
+    },
+    {
+      "name": "Magic: the Gathering Foundations",
+      "block": null,
+      "code": "FDN",
+      "enter_date": "2024-11-15T00:00:00.000",
+      "exit_date": null,
+      "rough_exit_date": "Q4 2029"
     }
   ],
   "bans": [
@@ -332,8 +380,29 @@
       "card_name": "The Meathook Massacre",
       "card_image_url": "https://cards.scryfall.io/large/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg",
       "set_code": "MID",
-      "reason": "Banned for the color black's play rate among competitive decks being a bit too high.",
+      "reason": "Banned to destabilize black as a prolific foundation for competitive decks.",
       "announcement_url": "https://magic.wizards.com/en/articles/archive/news/october-10-2022-banned-and-restricted-announcement"
+    },
+    {
+      "card_name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
+      "card_image_url": "https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1685368758",
+      "set_code": "NEO",
+      "reason": "Banned to increase low-mana counterplay options against black-red decks.",
+      "announcement_url": "https://magic.wizards.com/en/news/announcements/may-29-2023-banned-and-restricted-announcement"
+    },
+    {
+      "card_name": "Invoke Despair",
+      "card_image_url": "https://cards.scryfall.io/large/front/3/5/35af9d5c-4449-4549-b549-c3ba4a67dee0.jpg?1685368727",
+      "set_code": "NEO",
+      "reason": "Banned to increase diversity in black decks and increase counterplay options against removal.",
+      "announcement_url": "https://magic.wizards.com/en/news/announcements/may-29-2023-banned-and-restricted-announcement"
+    },
+    {
+      "card_name": "Reckoner Bankbuster",
+      "card_image_url": "https://cards.scryfall.io/large/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1685368706",
+      "set_code": "NEO",
+      "reason": "Banned to increase diversity of card advantage options among the colors.",
+      "announcement_url": "https://magic.wizards.com/en/news/announcements/may-29-2023-banned-and-restricted-announcement"
     }
   ]
 }

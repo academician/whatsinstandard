@@ -416,7 +416,7 @@
         "rough": "Q3 2021"
       },
       "exitDate": {
-        "exact": null,
+        "exact": "2024-08-02T00:00:00.000",
         "rough": "Q4 2024"
       }
     },
@@ -435,7 +435,7 @@
         "rough": "Q4 2021"
       },
       "exitDate": {
-        "exact": null,
+        "exact": "2024-08-02T00:00:00.000",
         "rough": "Q4 2024"
       }
     },
@@ -454,7 +454,7 @@
         "rough": "Q1 2022"
       },
       "exitDate": {
-        "exact": null,
+        "exact": "2024-08-02T00:00:00.000",
         "rough": "Q4 2024"
       }
     },
@@ -473,7 +473,7 @@
         "rough": "Q2 2022"
       },
       "exitDate": {
-        "exact": null,
+        "exact": "2024-08-02T00:00:00.000",
         "rough": "Q4 2024"
       }
     },
@@ -555,7 +555,7 @@
     },
     {
       "name": "March of the Machine: The Aftermath",
-      "codename": null,
+      "codename": "Marathon Epilogue",
       "code": "MAT",
       "symbol": {
         "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=MAT",
@@ -584,7 +584,7 @@
       },
       "enterDate": {
         "exact": "2023-09-08T00:00:00.000",
-        "rough": "Q4 2023"
+        "rough": "Q3 2023"
       },
       "exitDate": {
         "exact": null,
@@ -594,6 +594,139 @@
     {
       "name": "The Lost Caverns of Ixalan",
       "codename": "Offroading",
+      "code": "LCI",
+      "symbol": {
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=LCI",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=LCI",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=LCI",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=LCI"
+      },
+      "enterDate": {
+        "exact": "2023-11-17T00:00:00.000",
+        "rough": "Q4 2023"
+      },
+      "exitDate": {
+        "exact": null,
+        "rough": "Q4 2026"
+      }
+    },
+    {
+      "name": "Murders at Karlov Manor",
+      "codename": "Polo",
+      "code": "MKM",
+      "symbol": {
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=MKM",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=MKM",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=MKM",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=MKM"
+      },
+      "enterDate": {
+        "exact": "2024-02-09T00:00:00.000",
+        "rough": "Q1 2024"
+      },
+      "exitDate": {
+        "exact": null,
+        "rough": "Q4 2026"
+      }
+    },
+    {
+      "name": "Outlaws of Thunder Junction",
+      "codename": "Quilting",
+      "code": "OTJ",
+      "symbol": {
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=OTJ",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=OTJ",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=OTJ",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=OTJ"
+      },
+      "enterDate": {
+        "exact": "2024-04-19T00:00:00.000",
+        "rough": "Q2 2024"
+      },
+      "exitDate": {
+        "exact": null,
+        "rough": "Q4 2026"
+      }
+    },
+    {
+      "name": "Bloomburrow",
+      "codename": "Rugby",
+      "code": "BLB",
+      "symbol": {
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=BLB",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=BLB",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=BLB",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=BLB"
+      },
+      "enterDate": {
+        "exact": "2024-08-02T00:00:00.000",
+        "rough": "Q3 2024"
+      },
+      "exitDate": {
+        "exact": null,
+        "rough": "Q4 2027"
+      }
+    },
+    {
+      "name": "Duskmourn: House of Horror",
+      "codename": "Swimming",
+      "code": "DSK",
+      "symbol": {
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=DSK",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=DSK",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=DSK",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=DSK"
+      },
+      "enterDate": {
+        "exact": "2024-09-27T00:00:00.000",
+        "rough": "Q3 2024"
+      },
+      "exitDate": {
+        "exact": null,
+        "rough": "Q4 2027"
+      }
+    },
+    {
+      "name": "Magic: the Gathering Foundations",
+      "codename": null,
+      "code": "FDN",
+      "symbol": {
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=FDN",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=FDN",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=FDN",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=FDN"
+      },
+      "enterDate": {
+        "exact": "2024-11-15T00:00:00.000",
+        "rough": "Q4 2024"
+      },
+      "exitDate": {
+        "exact": null,
+        "rough": "Q4 2029"
+      }
+    },
+    {
+      "name": "\"Death Race\"",
+      "codename": "Tennis",
+      "code": null,
+      "symbol": {
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=null",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=null",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=null",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=null"
+      },
+      "enterDate": {
+        "exact": "2025-02-07T00:00:00.000",
+        "rough": "Q1 2025"
+      },
+      "exitDate": {
+        "exact": null,
+        "rough": "Q4 2027"
+      }
+    },
+    {
+      "name": null,
+      "codename": "Ultimate",
       "code": null,
       "symbol": {
         "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=null",
@@ -603,11 +736,87 @@
       },
       "enterDate": {
         "exact": null,
-        "rough": "Q1 2024"
+        "rough": "Q2 2025"
       },
       "exitDate": {
         "exact": null,
-        "rough": "Q4 2026"
+        "rough": "Q4 2027"
+      }
+    },
+    {
+      "name": null,
+      "codename": "Volleyball",
+      "code": null,
+      "symbol": {
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=null",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=null",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=null",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=null"
+      },
+      "enterDate": {
+        "exact": null,
+        "rough": "Q3 2025"
+      },
+      "exitDate": {
+        "exact": null,
+        "rough": "Q4 2028"
+      }
+    },
+    {
+      "name": null,
+      "codename": "Wrestling",
+      "code": null,
+      "symbol": {
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=null",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=null",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=null",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=null"
+      },
+      "enterDate": {
+        "exact": null,
+        "rough": "Q4 2025"
+      },
+      "exitDate": {
+        "exact": null,
+        "rough": "Q4 2028"
+      }
+    },
+    {
+      "name": null,
+      "codename": "Yachting",
+      "code": null,
+      "symbol": {
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=null",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=null",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=null",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=null"
+      },
+      "enterDate": {
+        "exact": null,
+        "rough": "Q1 2026"
+      },
+      "exitDate": {
+        "exact": null,
+        "rough": "Q4 2028"
+      }
+    },
+    {
+      "name": null,
+      "codename": "Ziplining",
+      "code": null,
+      "symbol": {
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=null",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=null",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=null",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=null"
+      },
+      "enterDate": {
+        "exact": null,
+        "rough": "Q2 2026"
+      },
+      "exitDate": {
+        "exact": null,
+        "rough": "Q4 2028"
       }
     }
   ],
@@ -693,8 +902,29 @@
       "cardName": "The Meathook Massacre",
       "cardImageUrl": "https://cards.scryfall.io/large/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg",
       "setCode": "MID",
-      "reason": "Banned for the color black's play rate among competitive decks being a bit too high.",
+      "reason": "Banned to destabilize black as a prolific foundation for competitive decks.",
       "announcementUrl": "https://magic.wizards.com/en/articles/archive/news/october-10-2022-banned-and-restricted-announcement"
+    },
+    {
+      "cardName": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
+      "cardImageUrl": "https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1685368758",
+      "setCode": "NEO",
+      "reason": "Banned to increase low-mana counterplay options against black-red decks.",
+      "announcementUrl": "https://magic.wizards.com/en/news/announcements/may-29-2023-banned-and-restricted-announcement"
+    },
+    {
+      "cardName": "Invoke Despair",
+      "cardImageUrl": "https://cards.scryfall.io/large/front/3/5/35af9d5c-4449-4549-b549-c3ba4a67dee0.jpg?1685368727",
+      "setCode": "NEO",
+      "reason": "Banned to increase diversity in black decks and increase counterplay options against removal.",
+      "announcementUrl": "https://magic.wizards.com/en/news/announcements/may-29-2023-banned-and-restricted-announcement"
+    },
+    {
+      "cardName": "Reckoner Bankbuster",
+      "cardImageUrl": "https://cards.scryfall.io/large/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1685368706",
+      "setCode": "NEO",
+      "reason": "Banned to increase diversity of card advantage options among the colors.",
+      "announcementUrl": "https://magic.wizards.com/en/news/announcements/may-29-2023-banned-and-restricted-announcement"
     }
   ]
 }
